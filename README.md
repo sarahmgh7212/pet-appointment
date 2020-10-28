@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+In this web application users can Add, Edit and delete any appointments they wish from the list of available appointments. This web Application is built with React.js, HTML and CSS.
 In the project directory, you can run:
 
+## Available Scripts
 ### `yarn start`
 
 Runs the app in the development mode.<br />
